@@ -4,7 +4,7 @@
 
 Este repositorio es el resultado de la prueba técnica escrita por
 **_Maurizio Kraus_** aspirando a la posicion de desarrollador front end
-con React.js para la empresa HolaFly.
+con React.js para la empresa Holafly.
 
 ### Observaciones clave
 
