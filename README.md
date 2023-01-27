@@ -6,16 +6,16 @@ Este repositorio es el resultado de la prueba técnica escrita por
 **_Maurizio Kraus_** aspirando a la posicion de desarrollador front end
 con React.js para la empresa Holafly.
 
-### Observaciones clave
+## Observaciones clave
 
 - Existe una version de la aplicación desplegada y accesible a través
-  de este [link](https://holakittens-ffa74.firebaseapp.com/)
+  de este [enlace hacia HolaKittens](https://holakittens-ffa74.firebaseapp.com/)
   Este enlace dirige a una versión que sólo contiene la porción del
   cliente de la aplicación, adicionalmente esta aplicación fue desplegada
   en el servicio de Baas Google Firebase.
 
 - El diseño creado como base para la aplicación puede ser explorado en
-  el siguente [link](https://www.figma.com/file/5VcSWbnw8UKWAV0XTkfA0J/HolaKittens?node-id=0%3A1&t=0c4UqN7e3DJxNSRE-1)
+  el siguente [enlace hacia el diseño creado en Figma](https://www.figma.com/file/5VcSWbnw8UKWAV0XTkfA0J/HolaKittens?node-id=0%3A1&t=0c4UqN7e3DJxNSRE-1)
 
 - Como se puede observar al comparar la versión desplegada y el diseño
   hay interacciones y elementos que pueden ser mejorados o pulidos
